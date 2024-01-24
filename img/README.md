@@ -1,0 +1,1 @@
+Images should be placed in this folder and should be named \[number\]\[letter\].png. The original file's names are "MapTex_\[letter\]-\[number\].png", use Bulk Rename Utility to rename them. The output file will be at img/combined.png
